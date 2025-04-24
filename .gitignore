@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environments
+env/
+venv/
+cancer_env/
+*.env
+
+# TensorFlow and Model Artifacts
+*.keras
+*.h5
+*.pb
+
+# Streamlit
+.streamlit/
+
+# System
+.DS_Store
